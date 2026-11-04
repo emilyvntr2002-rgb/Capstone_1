@@ -155,7 +155,7 @@ The following files are included in this repository:
 
 ## Project Presentation
 
-**Video Presentation:** [Insert your 10-minute video presentation link here]
+**Video Presentation:** 
 
 ## Conclusion
 
