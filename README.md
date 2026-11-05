@@ -13,7 +13,7 @@ I selected South Carolina as my territory within the South region. Through SQL q
 - Examine monthly and yearly sales trends.
 - Compare South Carolina's performance with the South region.
 - Analyze transaction counts and average transaction amounts by product category.
-- Rank states by online and in-store revenue.
+- Rank states by online revenue .
 - Identify opportunities to improve sales performance.
 
 ## Tools and Technologies
