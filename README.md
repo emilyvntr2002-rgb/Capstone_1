@@ -111,24 +111,7 @@ I ranked states based on total online revenue.
 
 This helped identify South Carolina's online performance compared with the other states in the online sales dataset.
 
-### 6. In-Store Revenue Ranking Across All States
 
-I ranked states based on total in-store revenue.
-
-- Maryland ranked first with $11,451,615.09.
-- South Carolina ranked 10th out of 10 states, with $648,812.56 in in-store revenue.
-
-This analysis helped identify South Carolina's in-store performance compared with the other states that have store locations in the dataset.
-
-### 7. South Region In-Store Revenue Ranking
-
-I also compared in-store revenue among the three states in the South region.
-
-1. Florida: $3,930,187.55
-2. Texas: $3,417,850.01
-3. South Carolina: $648,812.56
-
-South Carolina ranked third out of three states in the South region.
 
 ## Business Recommendations
 
