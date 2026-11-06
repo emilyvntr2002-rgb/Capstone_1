@@ -131,9 +131,10 @@ These recommendations could help EmporiUm identify growth opportunities and make
 
 The following files are included in this repository:
 
-- `Ventura_sales_analysis.sql` – SQL queries used to analyze sales data.
-- `South_Carolina_Monthly_Revenue.csv` – Exported monthly revenue data.
-- `Ventura_territory_chart.xlsx` – Excel workbook containing the PivotTable and PivotChart.
+- `Ventura_sales_analysis.sql` – SQL queries used to retrieve, analyze, and compare sales data.
+- `South_Carolina_Monthly_Revenue.csv` – Exported monthly revenue data for South Carolina.
+- `Ventura_territory_chart.xlsx` – Excel workbook containing the PivotTable and PivotChart used to visualize sales findings.
+- `South_Carolina_5_Minute_Presentation.pptx` – PowerPoint presentation summarizing the analysis, key findings, and business recommendations.
 - `README.md` – Project overview, analysis findings, and business recommendations.
 
 ## Project Presentation
