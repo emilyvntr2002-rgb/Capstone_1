@@ -139,7 +139,7 @@ The following files are included in this repository:
 
 ## Project Presentation
 
-**Video Presentation:** https://yearuptemp-my.sharepoint.com/:v:/g/personal/eventura_my_yearupunited_org/IQDqFD0w7hBWRJdV0usEqltBAbGnXVi5I12voz3Qc7tczg0?e=nianXN
+** 10 Min. Video Presentation:** https://yearuptemp-my.sharepoint.com/:v:/g/personal/eventura_my_yearupunited_org/IQDqFD0w7hBWRJdV0usEqltBAbGnXVi5I12voz3Qc7tczg0?e=nianXN
 
 ## Conclusion
 
