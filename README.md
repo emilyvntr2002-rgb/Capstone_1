@@ -143,6 +143,5 @@ The following files are included in this repository:
 
 ## Conclusion
 
-This capstone project gave me the opportunity to apply SQL and Excel skills to a business analysis scenario. I gained experience retrieving and analyzing data, identifying trends, comparing sales performance, and presenting findings through visualizations.
-
-Most importantly, I learned how data can be used to identify business opportunities and support better decision-making.
+This capstone project gave me the opportunity to apply SQL and Excel skills to am example of a real world business analysis scenario. I gained experience retrieving and analyzing data, identifying trends, comparing sales, and presenting data through visualizations like my excel chart.
+I learned how data can be used to determine business opportunities and as well as help a company make better business decisions.
